@@ -1,1 +1,3 @@
+## Nagłówek po Resolvowaniu Konfliktu
 Zmaina na galez A
+Zmaina na galez B
